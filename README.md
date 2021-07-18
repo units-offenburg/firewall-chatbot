@@ -89,7 +89,7 @@ mkdir /root/fwbot
 - Move into your project directory, clone the firewall-bot repository and move into the repository directory:
 ```
 cd /root/fwbot
-git clone https://github.com/janekc/firewall-bot
+git clone https://github.com/units-offenburg/firewall-chatbot
 cd /root/fwbot/firewall-bot
 ```
 - Use pipenv to install the firewall-bot and its required packages and version of python:
